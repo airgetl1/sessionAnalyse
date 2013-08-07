@@ -1,0 +1,3 @@
+1stAnalyse.py 处理原始数据，结果是按时间划分的一个个session
+2ndAnalyse.py 处理1stAnalyse.py的结果，区分出开始，跳转，刷新和回退
+先执行1stAnalyse.py,再执行2ndAnalyse.py
